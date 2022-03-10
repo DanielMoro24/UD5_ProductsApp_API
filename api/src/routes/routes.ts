@@ -1,5 +1,5 @@
-import { userRoutes } from "./userApp/userRoutes";
+import { prodRoutes } from "./prodApp/prodRoutes";
 
 export const routes = [
-    ...userRoutes
+    ...prodRoutes
 ]
